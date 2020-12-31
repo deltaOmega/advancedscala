@@ -1,0 +1,11 @@
+
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'com.scala.advanced.examples.HappyHolidaysRunner'
+}
+dependencies {
+
+}
